@@ -3,17 +3,17 @@
     "logo": "sochi",
     "id": 1,
     "status": "",
-    "online": "323",
+    "online": "0",
     "maxonline": "700",
     "color": "FFFFFF",
     "x2": "true",
     "key": "1424",
-    "name": "SOUL RUSSIA | SOCHI",
-    "firstname": "Сочи",
+    "name": "MY SERVER",
+    "firstname": "Мой",
     "secondname": "",
-    "url": "sochi.soulrussia.online",
-    "ip": "45.136.205.82",
-    "port": "7777"
+    "url": "shapokkk.duckdns.org",
+    "ip": "80.242.59.112",
+    "port": "6017"
   },
   {
     "logo": "white",
@@ -32,4 +32,3 @@
     "port": "7777"
   }
 ]
-
